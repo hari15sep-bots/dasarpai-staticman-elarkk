@@ -1,6 +1,0 @@
-// {
-//   "githubAppID": process.env.GITHUB_APP_ID,
-//   "githubPrivateKey": JSON.stringify(process.env.GITHUB_PRIVATE_KEY),
-//   "rsaPrivateKey": JSON.stringify(process.env.RSA_PRIVATE_KEY),
-//   "port": 8080
-// }
